@@ -1,0 +1,62 @@
+ h1{
+           color:red;
+           font-weight: bolder;
+           font-size:40px;
+           border:1px solid black;
+           width :auto;
+           height:auto;
+           margin: 0 auto;
+           text-align: center;
+}
+body{
+           background-color: cornsilk;
+}
+#intro{
+           font-size:20px;
+}
+ul{
+           font-size:20px;
+           border-color: aliceblue;
+           
+}
+      
+#hover{
+        width :auto;
+        height:auto;
+        text-align: center;
+        font-size:24px;
+        font-weight:blod;
+        color:blue;
+        clear: both;
+
+}
+#hover:hover{
+          background-color: bisque;
+}
+/*************************login********************/
+#login{
+          border:1px solid black ;
+          width:400px;
+          height:145px;
+          margin: 0 auto;
+          padding: 2px;
+          text-align: center;
+          background-color:azure;
+          color:black;
+          font-weight:bold;
+    
+}
+/*************************signin********************/
+#signin{
+          border:1px solid black ;
+          width:400px;
+          height:190px;
+          margin: 0 auto;
+          padding: 2px;
+          text-align: center;
+          background-color:azure;
+          color:black;
+          font-weight:bold;
+    
+}
+  
